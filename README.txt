@@ -14,4 +14,5 @@ For more How to run the code:
 --c. Sentiment Analysis will be done on topics.
 --d. Text Summarization on Positive and Negative Reviews.
 
-
+To download dataset, go to the link below:
+https://s3.amazonaws.com/amazon-reviews-pds/readme.html
